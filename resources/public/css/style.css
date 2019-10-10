@@ -1,0 +1,9 @@
+/* some style */
+
+#csv-upload {
+  cursor: pointer;
+}
+
+.list-group + .list-group {
+  margin-top: 1em;
+}
